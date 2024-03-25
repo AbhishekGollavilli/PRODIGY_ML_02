@@ -25,8 +25,11 @@ You can install these dependencies using pip: pip install pandas matplotlib scik
 **Usage**
 -----------------------------------------------------------------
 1.Clone the repository or download the files to your local machine.
+
 2.Open the Jupyter Notebook customer_segmentation.ipynb in JupyterLab or Jupyter Notebook.
+
 3.Run each cell in the notebook to load the data, perform data analysis, and apply K-means clustering.
+
 4.Analyze the clusters and interpret the results based on customer segments.
 
 **Data Description**
