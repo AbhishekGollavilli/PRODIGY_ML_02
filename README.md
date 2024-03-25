@@ -7,6 +7,7 @@ This project aims to segment customers of a retail store using K-means clusterin
 **Files**
 -----------------------------------------------------------------
 .customer_data.csv: CSV file containing the customer data.
+
 .customer_segmentation.ipynb: Jupyter Notebook containing the Python code for data analysis and clustering.
 
 **Dependencies**
@@ -14,7 +15,9 @@ This project aims to segment customers of a retail store using K-means clusterin
 The following Python libraries are required to run the code:
 
 .pandas
+
 .matplotlib
+
 .scikit-learn
 
 You can install these dependencies using pip: pip install pandas matplotlib scikit-learn
@@ -29,9 +32,13 @@ You can install these dependencies using pip: pip install pandas matplotlib scik
 **Data Description**
 -----------------------------------------------------------------
 .Customer ID: Unique identifier for each customer.
+
 .Age: Age of the customer.
+
 .Gender: Gender of the customer (Male/Female).
+
 .Annual Income (k$): Annual income of the customer in thousands of dollars.
+
 .Spending Score (1-100): Spending score assigned to the customer based on purchasing behavior and other factors.
 
 **Results**
